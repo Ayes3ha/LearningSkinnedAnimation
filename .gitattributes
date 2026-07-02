@@ -1,0 +1,6 @@
+* text=auto
+
+*.fbx binary
+*.jpg binary
+*.png binary
+*.tga binary

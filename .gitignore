@@ -1,0 +1,30 @@
+# CMake and local build outputs
+build/
+out/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Visual Studio generated files
+.vs/
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+x64/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.filters
+*.user
+*.suo
+*.vsidx
+*.VC.db
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.lock
+
+# Keep obj/ tracked: this project stores renderer assets there.
